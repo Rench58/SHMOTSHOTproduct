@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": 1750814740506,
+    "name": "Черная",
+    "price": 500,
+    "sizes": [
+      "M",
+      "XL"
+    ],
+    "image": "blob:https://web.telegram.org/491c9589-e70d-4ec1-9068-5ec7ecae9655",
+    "description": "0жззх",
+    "category": "clothing"
+  },
+  {
+    "id": 1750814789542,
+    "name": "белая",
+    "price": 4000,
+    "sizes": [
+      "M",
+      "XL"
+    ],
+    "image": "blob:https://web.telegram.org/491c9589-e70d-4ec1-9068-5ec7ecae9655",
+    "description": "рн",
+    "category": "clothing"
+  }
+]
