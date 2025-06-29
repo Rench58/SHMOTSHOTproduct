@@ -34,5 +34,17 @@
     "image": "https://cdn.poizon.com/pro-img/origin-img/20250401/6bff42f36f4a4145879450ff91f52f19.jpg",
     "description": "ауцау",
     "category": "clothing"
+  },
+  {
+    "id": 1751178112063,
+    "name": "Куртка",
+    "price": 5000,
+    "sizes": [
+      "M",
+      "XL"
+    ],
+    "image": "https://cdn.poizon.com/pro-img/origin-img/20250401/6bff42f36f4a4145879450ff91f52f19.jpg",
+    "description": "Тесмт ",
+    "category": "clothing"
   }
 ]
