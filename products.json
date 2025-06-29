@@ -46,5 +46,18 @@
     "image": "https://cdn.poizon.com/pro-img/origin-img/20250401/6bff42f36f4a4145879450ff91f52f19.jpg",
     "description": "Тесмт ",
     "category": "clothing"
+  },
+  {
+    "id": 1751178549802,
+    "name": "Rhjccjdrb",
+    "price": 9000,
+    "sizes": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "image": "https://blog.sneakerhead.ru/content/images/size/w1000/2024/05/https---hypebeast.com-image-2024-05-29-balenciaga-platform-sneaker-summer-2024-release-info-002-1.jpg",
+    "description": "Кроссовки ",
+    "category": "shoes"
   }
 ]
