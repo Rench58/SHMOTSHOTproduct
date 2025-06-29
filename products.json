@@ -22,5 +22,17 @@
     "image": "https://img.joomcdn.net/2f43e0b2b2b58eecfc187fad6ec8e3f26d57d24a_original.jpeg",
     "description": "рн",
     "category": "clothing"
+  },
+  {
+    "id": 1751177613697,
+    "name": "Тест",
+    "price": 5000,
+    "sizes": [
+      "M",
+      "XL"
+    ],
+    "image": "https://cdn.poizon.com/pro-img/origin-img/20250401/6bff42f36f4a4145879450ff91f52f19.jpg",
+    "description": "ауцау",
+    "category": "clothing"
   }
 ]
