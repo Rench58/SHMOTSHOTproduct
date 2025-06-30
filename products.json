@@ -1,3 +1,14 @@
 [
-  
+  {
+    "id": 1751246822458,
+    "name": "Тест",
+    "price": 5000,
+    "sizes": [
+      "40",
+      "48"
+    ],
+    "image": "https://blog.sneakerhead.ru/content/images/size/w1000/2024/05/https---hypebeast.com-image-2024-05-29-balenciaga-platform-sneaker-summer-2024-release-info-002-1.jpg",
+    "description": "Кроссовки",
+    "category": "shoes"
+  }
 ]
